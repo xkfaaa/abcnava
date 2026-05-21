@@ -1,6 +1,24 @@
 {
   "version": 1,
-  "updated": "2026-05-21T12:00:00Z",
+  "updated": "2026-05-21T15:30:00Z",
   "entries": [
+    {
+      "type": "server_id",
+      "value": "盗版服务器A的ID",
+      "reason": "倒卖激活码",
+      "date": "2026-05-21"
+    },
+    {
+      "type": "ip",
+      "value": "192.168.1.100",
+      "reason": "破解分发",
+      "date": "2026-05-22"
+    },
+    {
+      "type": "key_hash",
+      "value": "abc123def456...",
+      "reason": "密钥泄露",
+      "date": "2026-05-23"
+    }
   ]
 }
