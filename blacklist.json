@@ -3,7 +3,7 @@
   "updated": "2026-05-22",
   "entries": [
     {
-      "type": "server_id",
+      "type": "server_id ",
       "value": "/pd 状态显示的ServerID",
       "reason": "退款-用户A",
       "date": "2026-05-22"
